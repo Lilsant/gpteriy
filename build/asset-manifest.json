@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.502eff40.css",
+    "main.js": "/static/js/main.defd981d.js",
+    "static/media/avatar.jpg": "/static/media/avatar.3eaf808110cff23db32b.jpg",
+    "static/media/gpt_logo.svg": "/static/media/gpt_logo.3b5c33ced492e260ed7825b9fb45de5e.svg",
+    "index.html": "/index.html",
+    "static/media/send.svg": "/static/media/send.ebbf06454f1ef8d9eddfaa5682fd0c87.svg",
+    "main.502eff40.css.map": "/static/css/main.502eff40.css.map",
+    "main.defd981d.js.map": "/static/js/main.defd981d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.502eff40.css",
+    "static/js/main.defd981d.js"
+  ]
+}
